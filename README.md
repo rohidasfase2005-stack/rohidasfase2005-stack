@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there I'm Rohidas 👋
 
-<!--
-**rohidasfase2005-stack/rohidasfase2005-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student | 💻 Developer | ⚡ Hackathon Enthusiast  
 
-Here are some ideas to get you started:
+-  I’m currently learning **Deep Learning, Computer Vision & Full-Stack Development**
+-  I love to collaborate on **Hackathons, Open Source & Real-world Tech Projects**
+-  How to reach me: **rohidasfase2005@gmail.com**
+- I learn best by building and breaking things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Tools & Tech
+- C, Java, Python  
+- React, Node.js, HTML, CSS, JavaScript  
+- Machine Learning, CNN, Image Processing  
+- IoT (Arduino, Sensors)  
+- Git & GitHub, MySQL, VS Code  
