@@ -14,4 +14,4 @@
 - React, Node.js, HTML, CSS, JavaScript  
 - Machine Learning, CNN, Image Processing  
 - IoT (Arduino, Sensors)  
-- Git & GitHub, MySQL, VS Code  
+- Git & GitHub, MySQL, MongoDB, VS Code  
